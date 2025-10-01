@@ -39,7 +39,6 @@
 <img align="right" width="150" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif" alt="Anime Bike Ride">
 <img align="right" width="150" src="https://media.giphy.com/media/3oEjHGr1b13sU1w2Qo/giphy.gif" alt="Anime Cat Typing">
 
-
 - 🙏 My faith keeps me grounded  
 - 💕 Grateful for my girl, my constant inspiration  
 - 🏍️ Riding bikes & going on long drives  
