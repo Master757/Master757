@@ -39,16 +39,13 @@
 
 ### 🌸 Personal Interests  
 
-- 🙏 My faith in him keeps me grounded  
-- 💕 Grateful for my love,she's my constant inspiration  
+<img align="right" alt="Bike Ride" width="180" src="https://media.tenor.com/6OxJhz8cAfQAAAAC/bike-anime.gif">
+<img align="right" alt="Cat Coding Meme" width="180" src="https://media.tenor.com/YNlE6I0YmlAAAAAC/cat-typing.gif">
+
+- 🙏 My faith keeps me grounded  
+- 💕 Grateful for my girl, my constant inspiration  
 - 🏍️ Riding bikes & going on long drives  
 - 🎨 Love sketching & drawing in my free time  
 - 🐶🐱 Petting dogs and cats (instant mood booster!)  
-
-<p align="center">
-  <img src="https://media.tenor.com/fFz7oJHXq-AAAAAi/dog-cute.gif" width="70"/>
-  <img src="https://media.tenor.com/0I9XW06vCg0AAAAC/anime-love.gif" width="70"/>
-  <img src="https://media.tenor.com/6OxJhz8cAfQAAAAC/bike-anime.gif" width="70"/>
-</p>
 
 
