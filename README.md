@@ -1,6 +1,6 @@
 # Hey there! 👋  
 
-<img align="right" alt="Anime Coding" width="200" src="https://media.tenor.com/2roX3uxz_68AAAAM/anime-coding.gif">
+<img align="right" alt="Anime Coding" width="150" src="https://media.tenor.com/2roX3uxz_68AAAAM/anime-coding.gif">
 
 ### 💻 About Me  
 - 🌱 Currently exploring **Machine Learning & Arduino Projects**  
@@ -34,18 +34,11 @@
 
 ---
 
-### 🌌 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" width="400"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" width="400"/>  
-</p>
-
----
 
 ### 🌸 Personal Interests  
 
-<img align="right" alt="Bike Ride" width="160" src="https://media.tenor.com/6OxJhz8cAfQAAAAC/bike-anime.gif">
-<img align="right" alt="Cat Coding Meme" width="160" src="https://media.tenor.com/YNlE6I0YmlAAAAAC/cat-typing.gif">
+<img align="right" alt="Bike Ride" width="160" src="./assets/bike.gif">
+<img align="right" alt="Cat Coding Meme" width="160" src="./assets/cat-typing.gif">
 
 - 🙏 My faith keeps me grounded  
 - 💕 Grateful for my girl, my constant inspiration  
@@ -54,10 +47,3 @@
 - 🐶🐱 Petting dogs and cats (instant mood booster!)  
 
 ---
-
-### 🎶 Random Vibe  
-<p align="center">
-  <img src="https://media.tenor.com/BOd6lYQh_K0AAAAC/anime-relax.gif" width="200"/>  
-</p>
-
-*"Coding + Arduino + AI/ML + Anime = Life"* 🚀
