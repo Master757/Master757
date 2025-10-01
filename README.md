@@ -1,4 +1,4 @@
-# Hey there! 👋  
+# Hey there! Kaushik here👋  
 
 <img align="right" alt="Anime Coding" width="150" src="https://media.tenor.com/2roX3uxz_68AAAAM/anime-coding.gif">
 
