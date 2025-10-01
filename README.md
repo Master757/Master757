@@ -36,9 +36,9 @@
 
 
 ### 🌸 Personal Interests  
+<img align="right" width="150" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif" alt="Anime Bike Ride">
+<img align="right" width="150" src="https://media.giphy.com/media/3oEjHGr1b13sU1w2Qo/giphy.gif" alt="Anime Cat Typing">
 
-<img align="right" alt="Bike Ride" width="180" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif">
-<img align="right" alt="Cat Coding Meme" width="180" src="https://media.giphy.com/media/3oEjHGr1b13sU1w2Qo/giphy.gif">
 
 - 🙏 My faith keeps me grounded  
 - 💕 Grateful for my girl, my constant inspiration  
