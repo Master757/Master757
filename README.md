@@ -7,22 +7,22 @@
 - 🚀 Love building cool stuff in **C, C++, Java, Python**  
 - 🛠️ Tinkering with **Arduino + Hardware projects**  
 - 🎯 Also experimenting with **Unreal Engine** for fun  
+- 🤖 Trying to **blend Hardware + AI/ML** into projects (smart robots, IoT + ML gadgets, etc.)  
 
-
-
-- 
 ---
 
 ### ⚡ Tech Arsenal  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=unrealengine)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow)  
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=unrealengine" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow" />
+</p>
+
 
 ### 🔧 Things I Like to Build  
 - 🤖 DIY robotics and drone experiments  
