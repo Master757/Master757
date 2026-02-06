@@ -37,13 +37,13 @@
 ---
 
 
-### ~ 🌸 Personal Interests  
+### ~  Personal Interests  
 <img align="right" width="150" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3kza2ZjeHB5b2x1eDR0dXN4N2V6ankwYTNmb2R6czB6bGJjYzExOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/heIX5HfWgEYlW/giphy.gif" alt="cat typing">
 
 
-- 🙏 My faith keeps me grounded  
-- 🏍️ Riding bikes & going on long drives  
-- 🎨 Love sketching & drawing in my free time  
+-  My faith keeps me grounded  
+-  Riding bikes & going on long drives  
+-  Love sketching & drawing in my free time  
 - 🐶🐱 Petting dogs and cats (instant mood booster!)  
 
 ---
