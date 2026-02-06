@@ -3,11 +3,12 @@
 <img align="right" alt="Anime Coding" width="150" src="https://media.tenor.com/2roX3uxz_68AAAAM/anime-coding.gif">
 
 ### About Me  
--  Currently exploring **Machine Learning & Arduino Projects**  
--  Love building cool stuff in **C, C++, Java, Python**  
--  Tinkering with **Arduino + Hardware projects**  
+-  Currently exploring **QOE_LOG research work and System programming**  
+-  Love building cool stuff in **C, C++, Python**  
+-  Tinkering with **CORES, buidling things from scratch**  
 -  Also experimenting with **Unreal Engine** for fun  
--  Trying to **blend Hardware + AI/ML** into projects (smart robots, IoT + ML gadgets, etc.)  
+-  Trying to **blend Hardware + AI/ML** into projects (smart robots, IoT + ML gadgets, etc.)
+-  learning more about re-enforement learnings using 'omniverse' and python libs
 
 ---
 
@@ -28,10 +29,10 @@
 ---
 
 ### ~  Things I Like to Build  
--  DIY robotics and drone experiments  
+-  DIY robotics and drone experiments 
 -  Sensor-based projects 
--  Arduino-powered gadgets  
--  ML models that try to “think”  
+-  researching about differnt aspects of computer science
+-  ML models that try to “think”
 -  Smart systems combining **AI + Hardware**  
 
 ---
