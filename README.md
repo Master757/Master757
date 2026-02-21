@@ -6,7 +6,7 @@
 -  Currently exploring **CyberSecurity and Internet Infastructure, along with System programming**  
 -  Love building cool stuff in **C, C++, Python**  
 -  Tinkering with **CORES, buidling things from scratch**  
--  Also experimenting with **Unreal Engine** for fun  
+-  Also experimenting with **Unreal Engine** and **NVIDIA OMNIVERSE RL** for fun  
 -  Trying to **blend Hardware + AI/ML** into projects (smart robots, IoT + ML gadgets, etc.)
 -  learning more about re-enforement learnings using 'omniverse' and python libs
 
