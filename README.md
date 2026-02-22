@@ -3,7 +3,7 @@
 <img align="right" alt="Anime Coding" width="150" src="https://media.tenor.com/2roX3uxz_68AAAAM/anime-coding.gif">
 
 ### About Me  
--  Currently exploring **CyberSecurity and Internet Infastructure, along with System programming**  
+-  Currently exploring **CyberSecurity and Internet Infastructure, Pentesting, along with System programming**  
 -  Love building cool stuff in **C, C++, Python**  
 -  Tinkering with **CORES, buidling things from scratch**  
 -  Also experimenting with **Unreal Engine** and **NVIDIA OMNIVERSE RL** for fun  
