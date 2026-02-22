@@ -12,7 +12,7 @@
 
 ---
 
-### ~ ⚡ Tech Arsenal  
+### ~ Tech Arsenal  
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white  " />
