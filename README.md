@@ -69,9 +69,11 @@ My interests currently revolve around:
 ---
 ## What I’m Building & Exploring
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
+<div align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-typing.gif" width="320"/>
+</div>
+
+<br>
 
 ### Core Focus
 
@@ -85,17 +87,9 @@ My interests currently revolve around:
 
 <br>
 
-<i>debugging reality one commit at a time...</i>
-
-</td>
-
-<td width="42%" align="center" valign="top">
-
-<img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="320"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>debugging reality one commit at a time...</i>
+</p>
 ---
 
 ## Current Direction
