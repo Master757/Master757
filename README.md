@@ -1,26 +1,32 @@
 <h1 align="center">Kaushik</h1>
-<h3 align="center">Systems • Security • AI • Hardware</h3>
+<h3 align="center">Systems • Security • AI • IoT</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700" />
-</p>
-
----
+<table>
+<tr>
+<td width="60%">
 
 ## About Me
 
-Currently exploring **Cybersecurity**, **Internet Infrastructure**, and **Pentesting**,  
-while diving deep into **System Programming** and low-level architecture.
+Currently exploring **Cybersecurity**, **Internet Infrastructure**, and **System Programming**.
 
-I enjoy building things from scratch and understanding systems at their core before relying on abstractions.
+I focus on understanding systems from the ground up — building, breaking, and rebuilding with deeper insight.
 
-I’m actively experimenting with:
+My interests currently revolve around:
 
-- Reinforcement Learning
-- AI + Hardware systems
-- Robotics & sensor-driven projects
-- Unreal Engine simulations
-- NVIDIA Omniverse environments
+- Neural Networks & ML systems  
+- Reinforcement Learning (Omniverse + Python)  
+- Embedded + IoT integrations  
+- AI + low-level systems  
+- Performance-focused programming  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -32,16 +38,23 @@ I’m actively experimenting with:
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-### Domains
+### AI / ML
 
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=protonvpn&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Programming-333333?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-412991?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robotics-000000?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+### IoT & Embedded
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT%20Systems-000000?style=for-the-badge&logo=internetofthings&logoColor=white" />
 </p>
 
 ### Tools & Platforms
@@ -55,26 +68,37 @@ I’m actively experimenting with:
 
 ---
 
-## What I Like to Build
+## What I’m Building & Exploring
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600" />
-</p>
+<table>
+<tr>
+<td width="65%">
 
-- DIY robotics & drone experiments  
-- Sensor-based intelligent systems  
-- AI models that simulate reasoning  
-- Hardware + ML hybrid systems  
-- Deep research into computer science fundamentals  
+- Neural network implementations from scratch  
+- Reinforcement learning experiments  
+- ML integration with Raspberry Pi 5  
+- IoT + AI hybrid systems  
+- Performance-oriented C/C++ projects  
+- Low-level system exploration  
+- Programming language deep-dives  
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="220" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Current Direction
 
-- Advanced security research & exploitation  
-- Reinforcement learning (simulation → real-world transfer)  
-- Autonomous robotics systems  
-- Hardware-accelerated AI  
+- Advanced cybersecurity & exploitation research  
+- AI systems that interact with hardware  
+- Efficient ML deployment on edge devices  
+- Understanding computer systems at architectural depth  
 
 ---
 
@@ -83,7 +107,7 @@ I’m actively experimenting with:
 Faith keeps me grounded.  
 Long bike rides reset the mind.  
 Sketching fuels creativity.  
-Dogs and cats fix everything.
+Cats > everything.
 
 ---
 
@@ -91,14 +115,13 @@ Dogs and cats fix everything.
 
 ```
 Build from scratch.
-Understand the system.
-Break things.
-Rebuild stronger.
+Understand the architecture.
+Optimize the system.
 Repeat.
 ```
 
 ---
 
 <p align="center">
-  <i>Understanding the core is power.</i>
+  <i>Curious mind. Low-level focus. Intelligent systems.</i>
 </p>
