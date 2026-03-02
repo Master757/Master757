@@ -70,9 +70,11 @@ My interests currently revolve around:
 
 ## What I’m Building & Exploring
 
-<table width="100%">
-<tr>
-<td width="55%" valign="middle">
+<div align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-typing.gif" width="320"/>
+</div>
+
+<br>
 
 ### Core Focus
 
@@ -84,19 +86,11 @@ My interests currently revolve around:
 - Low-level architecture exploration  
 - Programming language deep-dives  
 
-</td>
+<br>
 
-<td width="45%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300" />
-
-<br><br>
-
-<i>debugging in progress...</i>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>debugging reality one commit at a time...</i>
+</p>
 ---
 
 ## Current Direction
