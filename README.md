@@ -29,7 +29,6 @@ My interests currently revolve around:
 </table>
 
 ---
-
 ## Tech Stack
 
 ### Languages
@@ -41,21 +40,36 @@ My interests currently revolve around:
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-### AI / ML
+---
+
+### AI / ML Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
+
+---
+
+### Data & Scientific Computing
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+---
 
 ### IoT & Embedded
 
 <p>
   <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT%20Systems-000000?style=for-the-badge&logo=internetofthings&logoColor=white" />
 </p>
+
+---
 
 ### Tools & Platforms
 
@@ -65,7 +79,6 @@ My interests currently revolve around:
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-
 ---
 ### What I’m Building & Exploring/ Core Focus
 
