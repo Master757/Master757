@@ -1,4 +1,4 @@
-<h1 align="center">Kaushik</h1>
+<h1 align="center">Kaushik Chakraborty</h1>
 <h3 align="center">Systems • Security • AI • IoT</h3>
 
 <table>
@@ -71,7 +71,7 @@ My interests currently revolve around:
 ## What I’m Building & Exploring
 
 <div align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-typing.gif" width="320"/>
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-typing.gif" width="270"/>
 </div>
 
 <br>
