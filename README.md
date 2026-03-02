@@ -70,27 +70,33 @@ My interests currently revolve around:
 
 ## What I’m Building & Exploring
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%">
+<td width="55%" valign="middle">
+
+### Core Focus
 
 - Neural network implementations from scratch  
 - Reinforcement learning experiments  
 - ML integration with Raspberry Pi 5  
 - IoT + AI hybrid systems  
-- Performance-oriented C/C++ projects  
-- Low-level system exploration  
+- Performance-oriented C/C++ systems  
+- Low-level architecture exploration  
 - Programming language deep-dives  
 
 </td>
-<td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="220" />
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300" />
+
+<br><br>
+
+<i>debugging in progress...</i>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## Current Direction
