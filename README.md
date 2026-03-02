@@ -1,47 +1,102 @@
-# ~ Hey there! Kaushik here👋  
-
-<img align="right" alt="Anime Coding" width="150" src="https://media.tenor.com/2roX3uxz_68AAAAM/anime-coding.gif">
-
-### About Me  
--  Currently exploring **CyberSecurity and Internet Infastructure, Pentesting, along with System programming**  
--  Love building cool stuff in **C, C++, Python**  
--  Tinkering with **CORES, buidling things from scratch**  
--  Also experimenting with **Unreal Engine** and **NVIDIA OMNIVERSE RL** for fun  
--  Trying to **blend Hardware + AI/ML** into projects (smart robots, IoT + ML gadgets, etc.)
--  learning more about re-enforement learnings using 'omniverse' and python libs
-
----
-
-### ~ Tech Arsenal  
+<h1 align="center">Kaushik</h1>
+<h3 align="center">Systems • Security • AI • Hardware</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white  " />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white  " />
-  <img src="https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white  " />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white  " />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white  " />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white  " />
-  <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=unrealengine  " />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white  " />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white  " />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700" />
 </p>
 
 ---
 
-### ~  Things I Like to Build  
--  DIY robotics and drone experiments 
--  Sensor-based projects 
--  researching about differnt aspects of computer science
--  ML models that try to “think”
--  Smart systems combining **AI + Hardware**  
+## About Me
+
+I’m currently exploring **Cybersecurity**, **Internet Infrastructure**, and **Pentesting**,  
+while diving deep into **System Programming** and low-level architecture.
+
+I enjoy building things from scratch — understanding the core before relying on abstractions.
+
+My work often blends:
+
+- C / C++ / Python
+- Reinforcement Learning
+- AI + Hardware systems
+- Robotics & sensor-driven projects
+- Simulation environments using Unreal Engine & NVIDIA Omniverse
 
 ---
 
+## Technical Focus
 
-### ~  Personal Interests  
--  My faith keeps me grounded  
--  Riding bikes & going on long drives  
--  Love sketching & drawing in my free time  
-- 🐶🐱 Petting dogs and cats (instant mood booster!)  
+### Languages
+```
+C
+C++
+Python
+```
+
+### Domains
+```
+Cybersecurity
+System Programming
+Reinforcement Learning
+Artificial Intelligence / Machine Learning
+IoT Systems
+Robotics
+```
+
+### Tools & Platforms
+```
+Linux
+Git
+Unreal Engine
+NVIDIA Omniverse
+```
 
 ---
+
+## What I Like to Build
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600" />
+</p>
+
+- DIY robotics and drone experiments  
+- Sensor-based intelligent systems  
+- Smart AI + hardware integrations  
+- ML models that attempt reasoning  
+- Deep research into computer science fundamentals  
+
+---
+
+## Current Direction
+
+- Advanced security research & exploitation  
+- Reinforcement learning (simulation → real-world transfer)  
+- Autonomous robotics systems  
+- Hardware-accelerated AI projects  
+
+---
+
+## Personal
+
+Faith keeps me grounded.  
+Long bike rides reset my mind.  
+Sketching keeps creativity alive.  
+Dogs and cats are instant mood boosters.
+
+---
+
+## Philosophy
+
+```
+Build from scratch.
+Understand the system.
+Break things.
+Rebuild stronger.
+Repeat.
+```
+
+---
+
+<p align="center">
+  <i>“The best way to understand a system is to build it.”</i>
+</p>
