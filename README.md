@@ -67,15 +67,11 @@ My interests currently revolve around:
 </p>
 
 ---
-## What I’m Building & Exploring
+### What I’m Building & Exploring/ Core Focus
 
 <div align="center">
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-typing.gif" width="320"/>
 </div>
-
-<br>
-
-### Core Focus
 
 - Neural network implementations from scratch  
 - Reinforcement learning experiments  
@@ -84,8 +80,6 @@ My interests currently revolve around:
 - Performance-oriented C/C++ systems  
 - Low-level architecture exploration  
 - Programming language deep-dives  
-
-<br>
 
 <p align="center">
   <i>debugging reality one commit at a time...</i>
@@ -96,7 +90,7 @@ My interests currently revolve around:
 
 - Advanced cybersecurity & exploitation research  
 - AI systems that interact with hardware  
-- Efficient ML deployment on edge devices  
+- Efficint ML deployment on edge devices  
 - Understanding computer systems at architectural depth  
 
 ---
