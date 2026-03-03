@@ -111,10 +111,11 @@ My interests currently revolve around:
 
 ## Personal
 
-Faith keeps me grounded.  
-Long bike rides reset the mind.  
-Sketching fuels creativity.  
-Cats > everything.
+My Faith keeps me grounded, he is the shepeard of my soul.  
+Long bike rides reset the mind⭐.  
+Anime != Cartoons
+Actions speaks louder than words, but that doesnt mean words are to be ignored...
+Cats are one of the most cutest creatures everrrr 😼.
 
 ---
 
@@ -122,6 +123,7 @@ Cats > everything.
 
 ```
 Build from scratch.
+Break things.
 Understand the architecture.
 Optimize the system.
 Repeat.
