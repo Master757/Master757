@@ -113,11 +113,11 @@ My interests currently revolve around:
 
 ## Personal
 
-My Faith keeps me grounded, he is the shepeard of my soul.  
-Long bike rides reset the mind⭐.  
-Anime != Cartoons
-Actions speaks louder than words, but that doesnt mean words are to be ignored...
-Cats are one of the most cutest creatures everrrr 😼.
+- My Faith keeps me grounded, he is the shepeard of my soul.  
+- Long bike rides reset the mind⭐.  
+- Anime != Cartoons.
+- Actions speaks louder than words, but that doesnt mean words are to be ignored...
+- Cats are one of the most cutest creatures everrrr 😼.
 
 ---
 
